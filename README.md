@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @suman28pandit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+👋 Hi, I’m @suman28pandit
 I am currently the CMO and Head of App Development at WitBlox. We are an IIT Bombay alumni EdTech startup based in Mumbai (funded by Neotec Hub and Mumbai Angels), trying to create a revolution in the STEM Education space and create innovators for the future. We have built a Robotics learning Hardware Kit called WitBlox and a gamified self - learning App for Robotics education. WitBlox App gives a gamified learning experience to children where they learn different Robotics and Engineering lessons digitally in the form of games and build real Physical Projects to upload it in the App and win rewards. There is also a Social Community like Instagram Reels where they can share their projects and get rewarded. There are 75k+ active members in the WitBlox Community (App) right now. Our mission is to provide a maker's platform to young children where they can explore, innovate, create and build things. 
 
 Additionally, I also handle the online sales of WitBlox products which contribute to 90% of our revenue & manage the content team. Here are some of the awesome content we have created to engage our users - WitBlox - YouTube). We have also organised competitions like WitBlox Young Inventor and Indian Robotics Championship.
 
 I have been associated with the WitBlox team since its inception in 2016 (when I worked as an Intern to help them create the product). In between, I also had a small engagement with BYJUS in Mumbai when we started our Mumbai office. I am also a part of the Product Folks Community where we volunteer to help newcomers in product management.
-
+ 
 
